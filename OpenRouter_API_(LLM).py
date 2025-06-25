@@ -3,7 +3,6 @@ import requests
 import json
 
 url = "https://openrouter.ai/api/v1/chat/completions"
-api_key = "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" 
 
 
 headers = {
