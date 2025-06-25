@@ -1,0 +1,29 @@
+# Project Daily Log
+
+---
+
+## Day 1 — [06-25-2025]
+
+Today I spoke to Vaughn about the project and the scope.
+
+**Today’s task:** Using an API to call OpenRouter’s providers page for each LLM model. Obviously, I couldn’t do it for all models, but I tried for DeepSeek.
+
+**Takeaways:**
+
+- Do **NOT** EXPOSE YOUR API KEYS (learned the wrong and hard way)  
+  - Learned about the gitignore method that doesn’t store or push the API file/env you declare  
+- You cannot access every LLM model because you don’t have enough tokens  
+  - Used open source models (did not work in the end but at least the code ran)  
+- BeautifulSoup is good ol’ reliable, can’t go wrong  
+- Selenium is able to open a new Chrome page itself, execute some functions like clicking “show __ more” button  
+- Pairing Selenium with BeautifulSoup allowed me to get all the providers’ names  
+- Also looked into inspect element and command + F to find specific fields, and saw similarities to actually have the code call them  
+
+---
+
+## Day 2 — [YYYY-MM-DD]
+
+(Add your notes here...)
+
+---
+
