@@ -1,12 +1,13 @@
 
 import requests
+import apis
 import json
 
 url = "https://openrouter.ai/api/v1/chat/completions"
 
 
 headers = {
-    "Authorization": f"Bearer {api_key}",
+    "Authorization": f"Bearer {apis.api_key}",
     "Content-Type": "application/json",
 }
 
