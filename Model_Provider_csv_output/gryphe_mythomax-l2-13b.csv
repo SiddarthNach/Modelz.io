@@ -1,0 +1,5 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | gryphe/mythomax-l2-13b,4096,4096,0.000000065,0.000000065,17.969,500.0
+Parasail | gryphe/mythomax-l2-13b,4096,4096,0.00000008,0.00000011,82.3255,377.0
+Novita | gryphe/mythomax-l2-13b,32000,4096,0.00000009,0.00000009,60.667,1156.5
+Mancer 2 | gryphe/mythomax-l2-13b,1024,8192,0.000001,0.0000015,85.59,4231.0

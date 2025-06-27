@@ -1,0 +1,4 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | meta-llama/llama-guard-4-12b,,163840,0.00000005,0.00000005,150.0,602.5
+Together | meta-llama/llama-guard-4-12b,,1048576,0.0000002,0.0000002,192.307,90.0
+Groq | meta-llama/llama-guard-4-12b,1024.0,131072,0.0000002,0.0000002,0.0,281.0

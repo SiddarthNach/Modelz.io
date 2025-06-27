@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Minimax | minimax/minimax-01,1000192,1000192,0.0000002,0.0000011,29.442,1521.5

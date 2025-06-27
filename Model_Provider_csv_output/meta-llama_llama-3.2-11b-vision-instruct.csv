@@ -1,0 +1,7 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | meta-llama/llama-3.2-11b-vision-instruct,16384.0,131072,0.000000049,0.000000049,45.909,593.5
+Cloudflare | meta-llama/llama-3.2-11b-vision-instruct,,128000,0.000000049,0.00000068,53.579,281.0
+Lambda | meta-llama/llama-3.2-11b-vision-instruct,131072.0,131072,0.00000005,0.00000005,154.135,221.0
+InferenceNet | meta-llama/llama-3.2-11b-vision-instruct,16384.0,16384,0.000000055,0.000000055,48.618,979.0
+Together | meta-llama/llama-3.2-11b-vision-instruct,,131072,0.00000018,0.00000018,0.0,135.0
+Together | meta-llama/llama-3.2-11b-vision-instruct,,131072,0.00000018,0.00000018,133.723,823.0

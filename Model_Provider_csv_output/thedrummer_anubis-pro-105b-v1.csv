@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Parasail | thedrummer/anubis-pro-105b-v1,131072,131072,0.0000008,0.000001,27.8585,266.5

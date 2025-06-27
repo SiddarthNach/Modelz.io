@@ -1,0 +1,3 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+OpenAI | openai/gpt-4,4096,8191,0.00003,0.00006,25.753,866
+Azure | openai/gpt-4,4096,8191,0.00003,0.00006,169.9365,674

@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Featherless | neversleep/llama-3-lumimaid-70b,4096,8192,0.000004,0.000006,13.66,1255.5

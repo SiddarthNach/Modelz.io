@@ -1,0 +1,7 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Kluster | mistralai/mistral-small-24b-instruct-2501,32768.0,32768,0.00000005,0.00000009,64.178,598
+DeepInfra | mistralai/mistral-small-24b-instruct-2501,16384.0,32768,0.00000005,0.00000009,77.315,523
+Enfer | mistralai/mistral-small-24b-instruct-2501,28000.0,28000,0.00000005,0.00000009,N/A,N/A
+Mistral | mistralai/mistral-small-24b-instruct-2501,,32768,0.0000001,0.0000003,107.6295,282
+Ubicloud | mistralai/mistral-small-24b-instruct-2501,32768.0,32768,0.0000003,0.0000003,35.608,953
+Together | mistralai/mistral-small-24b-instruct-2501,2048.0,32768,0.0000008,0.0000008,N/A,N/A

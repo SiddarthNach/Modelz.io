@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Novita | qwen/qwen3-8b-04-28,20000,128000,0.000000035,0.000000138,55.217,650

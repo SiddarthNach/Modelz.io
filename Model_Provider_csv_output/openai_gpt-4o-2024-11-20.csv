@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+OpenAI | openai/gpt-4o-2024-11-20,16384,128000,0.0000025,0.00001,238.095,295

@@ -1,0 +1,3 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Featherless | undi95/remm-slerp-l2-13b,4096,4096,0.0000008,0.0000012,16.001,946.5
+Mancer 2 | undi95/remm-slerp-l2-13b,1024,6144,0.000001,0.0000015,45.339,428.0

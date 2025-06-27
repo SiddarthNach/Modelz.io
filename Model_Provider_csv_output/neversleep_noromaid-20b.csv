@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Mancer 2 | neversleep/noromaid-20b,2048,8192,0.00000125,0.000002,69.158,1161

@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Nineteen | opengvlab/internvl3-14b,,12288,0.0000002,0.0000004,167.276,346.5

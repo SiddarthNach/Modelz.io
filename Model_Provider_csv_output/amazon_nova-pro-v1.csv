@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Amazon Bedrock | amazon/nova-pro-v1,5120,300000,0.0000008,0.0000032,103.896,443

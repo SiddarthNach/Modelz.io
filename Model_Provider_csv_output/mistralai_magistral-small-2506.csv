@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Mistral | mistralai/magistral-small-2506,40000,40000,0.0000005,0.0000015,127.121,276

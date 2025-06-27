@@ -1,0 +1,4 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Anthropic | anthropic/claude-4-opus-20250522,32000,200000,0.000015,0.000075,36.375,2979.5
+Amazon Bedrock | anthropic/claude-4-opus-20250522,32000,200000,0.000015,0.000075,12.975,4665.0
+Google | anthropic/claude-4-opus-20250522,32000,200000,0.000015,0.000075,35.4585,2762.5

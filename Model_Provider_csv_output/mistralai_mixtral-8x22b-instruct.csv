@@ -1,0 +1,3 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Fireworks | mistralai/mixtral-8x22b-instruct,,65536,0.0000009,0.0000009,90.115,337.5
+Mistral | mistralai/mixtral-8x22b-instruct,,65536,0.000002,0.000006,84.677,355.0

@@ -1,0 +1,3 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Lambda | nousresearch/hermes-3-llama-3.1-70b,131072.0,131072,0.00000012,0.0000003,56.818,267
+Hyperbolic | nousresearch/hermes-3-llama-3.1-70b,,12288,0.0000004,0.0000004,58.956,690

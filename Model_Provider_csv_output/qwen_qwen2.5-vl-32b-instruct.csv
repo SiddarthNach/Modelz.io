@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Fireworks | qwen/qwen2.5-vl-32b-instruct,,128000,0.0000009,0.0000009,72.4675,921

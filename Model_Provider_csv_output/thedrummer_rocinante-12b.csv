@@ -1,0 +1,4 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+NextBit | thedrummer/rocinante-12b,,32768,0.0000002,0.0000005,42.974,1426
+Infermatic | thedrummer/rocinante-12b,,32768,0.00000025,0.0000005,100.0,315
+Featherless | thedrummer/rocinante-12b,4096.0,16384,0.0000008,0.0000012,17.818,1081

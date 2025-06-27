@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+OpenAI | openai/o3-mini-high-2025-01-31,100000,200000,0.0000011,0.0000044,1034.5455,11732

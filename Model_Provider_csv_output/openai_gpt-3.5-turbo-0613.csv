@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Azure | openai/gpt-3.5-turbo-0613,4096,4095,0.000001,0.000002,210.607,1046

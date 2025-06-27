@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Novita | thudm/glm-z1-rumination-32b-0414,32000,32000,0.00000024,0.00000024,23.737,974.5

@@ -1,0 +1,7 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | meta-llama/llama-3.1-405b-instruct,16384.0,32768,0.0000008,0.0000008,27.574,596
+Lambda | meta-llama/llama-3.1-405b-instruct,131072.0,131072,0.0000008,0.0000008,33.133,449
+Nebius | meta-llama/llama-3.1-405b-instruct,,131072,0.000001,0.000003,39.564,372
+Fireworks | meta-llama/llama-3.1-405b-instruct,,131072,0.000003,0.000003,66.666,503
+Together | meta-llama/llama-3.1-405b-instruct,,130815,0.0000035,0.0000035,45.744,660
+Hyperbolic | meta-llama/llama-3.1-405b-instruct,,131000,0.000004,0.000004,54.6555,965

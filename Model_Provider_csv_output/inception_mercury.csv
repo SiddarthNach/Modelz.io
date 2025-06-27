@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Inception | inception/mercury,16000,32000,0.00001,0.00001,606.205,619.5

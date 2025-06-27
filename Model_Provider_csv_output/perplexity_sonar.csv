@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Perplexity | perplexity/sonar,,127072,0.000001,0.000001,107.1765,1673.5

@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Together | deepseek/deepseek-r1-distill-qwen-1.5b,32768,131072,0.00000018,0.00000018,454.9975,204.5

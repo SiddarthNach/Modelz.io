@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Perplexity | perplexity/llama-3.1-sonar-small-128k-online,,127072,0.0000002,0.0000002,275.862,1243

@@ -1,0 +1,6 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Nebius | meta-llama/llama-guard-3-8b,,131072,0.00000002,0.00000006,44.247,437
+DeepInfra | meta-llama/llama-guard-3-8b,,131072,0.000000055,0.000000055,32.526,354
+Fireworks | meta-llama/llama-guard-3-8b,,131072,0.0000002,0.0000002,N/A,N/A
+Together | meta-llama/llama-guard-3-8b,,8192,0.0000002,0.0000002,N/A,N/A
+Cloudflare | meta-llama/llama-guard-3-8b,,0,0.00000048,0.00000003,N/A,N/A

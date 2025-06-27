@@ -1,0 +1,6 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | meta-llama/llama-3-70b-instruct,16384.0,8192,0.0000003,0.0000004,46.753,497.0
+Hyperbolic | meta-llama/llama-3-70b-instruct,,8192,0.0000004,0.0000004,64.516,1267.0
+Novita | meta-llama/llama-3-70b-instruct,8000.0,8192,0.00000051,0.00000074,40.1555,841.0
+Groq | meta-llama/llama-3-70b-instruct,8192.0,8192,0.00000059,0.00000079,442.88,189.5
+Together | meta-llama/llama-3-70b-instruct,,8192,0.00000088,0.00000088,68.965,309.0

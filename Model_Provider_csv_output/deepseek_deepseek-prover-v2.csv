@@ -1,0 +1,4 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+GMICloud | deepseek/deepseek-prover-v2,,131072,0.0000005,0.00000218,79.616,602
+DeepInfra | deepseek/deepseek-prover-v2,,163840,0.0000005,0.00000218,45.4285,194
+Novita | deepseek/deepseek-prover-v2,160000.0,160000,0.0000007,0.0000025,46.0645,419

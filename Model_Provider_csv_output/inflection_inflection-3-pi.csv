@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Inflection | inflection/inflection-3-pi,1024,8000,0.0000025,0.00001,39.1175,2097

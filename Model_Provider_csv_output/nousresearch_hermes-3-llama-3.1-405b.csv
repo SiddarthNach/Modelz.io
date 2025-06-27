@@ -1,0 +1,4 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | nousresearch/hermes-3-llama-3.1-405b,16384.0,131072,0.0000007,0.0000008,14.302,1157
+Lambda | nousresearch/hermes-3-llama-3.1-405b,131072.0,131072,0.0000008,0.0000008,33.479,1316
+Nebius | nousresearch/hermes-3-llama-3.1-405b,,131072,0.000001,0.000003,33.646,766

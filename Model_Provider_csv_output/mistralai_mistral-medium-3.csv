@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Mistral | mistralai/mistral-medium-3,,32768,0.0000004,0.000002,53.333,354.5

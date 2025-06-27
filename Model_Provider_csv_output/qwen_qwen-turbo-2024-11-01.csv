@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Alibaba | qwen/qwen-turbo-2024-11-01,8192,1000000,0.00000005,0.0000002,95.238,555

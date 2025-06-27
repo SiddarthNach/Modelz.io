@@ -1,0 +1,6 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Anthropic | anthropic/claude-3.5-sonnet,8192,200000,0.000003,0.000015,52.737,1865.0
+Google | anthropic/claude-3.5-sonnet,8192,200000,0.000003,0.000015,55.749,926.5
+Amazon Bedrock | anthropic/claude-3.5-sonnet,8192,200000,0.000003,0.000015,41.058,1674.5
+Amazon Bedrock | anthropic/claude-3.5-sonnet,8192,200000,0.000003,0.000015,37.8725,1506.0
+Google | anthropic/claude-3.5-sonnet,8192,200000,0.000003,0.000015,56.894,1049.0

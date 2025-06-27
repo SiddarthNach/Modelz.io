@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+OpenAI | openai/gpt-4.1-mini-2025-04-14,32768,1047576,0.0000004,0.0000016,80.7555,420

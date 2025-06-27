@@ -1,0 +1,7 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | qwen/qwen-2.5-72b-instruct,16384.0,32768,0.00000012,0.00000039,41.615,576
+Nebius | qwen/qwen-2.5-72b-instruct,,131072,0.00000013,0.0000004,24.634,592
+Novita | qwen/qwen-2.5-72b-instruct,32000.0,32000,0.00000038,0.0000004,26.555,1340
+Hyperbolic | qwen/qwen-2.5-72b-instruct,,131072,0.0000004,0.0000004,25.245,1448
+Fireworks | qwen/qwen-2.5-72b-instruct,,32768,0.0000009,0.0000009,81.803,285
+Together | qwen/qwen-2.5-72b-instruct,2048.0,131072,0.0000012,0.0000012,112.4025,1003

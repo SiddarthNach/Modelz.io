@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Featherless | eva-unit-01/eva-qwen-2.5-72b,4096,16384,0.000004,0.000006,13.7285,1683

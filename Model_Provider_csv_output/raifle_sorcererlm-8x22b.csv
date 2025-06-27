@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Infermatic | raifle/sorcererlm-8x22b,,16000,0.0000045,0.0000045,22.93,346

@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Anthropic | anthropic/claude-2.0,4096,100000,0.000008,0.000024,33.039,1229

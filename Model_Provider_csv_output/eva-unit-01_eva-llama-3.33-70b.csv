@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Featherless | eva-unit-01/eva-llama-3.33-70b,4096,16384,0.000004,0.000006,13.715,1283

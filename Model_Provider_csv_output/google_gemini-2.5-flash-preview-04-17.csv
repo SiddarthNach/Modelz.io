@@ -1,0 +1,3 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Google | google/gemini-2.5-flash-preview-04-17,65535,1048576,0.00000015,0.0000006,80.619,1005
+Google AI Studio | google/gemini-2.5-flash-preview-04-17,65535,1048576,0.00000015,0.0000006,54.171,640

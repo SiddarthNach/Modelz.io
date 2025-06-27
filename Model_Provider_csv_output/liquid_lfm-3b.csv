@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Liquid | liquid/lfm-3b,,32768,0.00000002,0.00000002,16.4115,1008

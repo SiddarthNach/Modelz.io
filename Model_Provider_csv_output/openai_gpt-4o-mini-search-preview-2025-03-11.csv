@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+OpenAI | openai/gpt-4o-mini-search-preview-2025-03-11,16384,128000,0.00000015,0.0000006,198.8935,2371

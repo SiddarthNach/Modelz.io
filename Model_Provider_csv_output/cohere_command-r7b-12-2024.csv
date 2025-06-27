@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Cohere | cohere/command-r7b-12-2024,4000,128000,0.0000000375,0.00000015,178.988,211

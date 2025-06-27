@@ -1,0 +1,7 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | qwen/qwen3-30b-a3b-04-28,40960.0,40960,0.00000008,0.00000029,109.381,1151.0
+InferenceNet | qwen/qwen3-30b-a3b-04-28,16384.0,16384,0.00000008,0.00000029,16.269,1158.0
+Parasail | qwen/qwen3-30b-a3b-04-28,40960.0,40960,0.00000009,0.0000005,154.5475,715.0
+Nebius | qwen/qwen3-30b-a3b-04-28,,40960,0.0000001,0.0000003,129.512,235.0
+Novita | qwen/qwen3-30b-a3b-04-28,20000.0,40960,0.0000001,0.00000045,162.3935,746.5
+Fireworks | qwen/qwen3-30b-a3b-04-28,,40000,0.00000015,0.0000006,140.91,781.0

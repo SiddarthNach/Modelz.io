@@ -1,0 +1,8 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Kluster | google/gemma-3-27b-it,8000.0,64000,0.0000001,0.00000018,18.41,6993.0
+DeepInfra | google/gemma-3-27b-it,16384.0,131072,0.0000001,0.00000019,17.735,1089.0
+Nebius | google/gemma-3-27b-it,,110000,0.0000001,0.0000003,49.208,741.5
+Parasail | google/gemma-3-27b-it,131072.0,131072,0.0000001,0.0000004,20.836,1218.0
+Novita | google/gemma-3-27b-it,32000.0,32000,0.000000119,0.0000002,42.55,1386.0
+InferenceNet | google/gemma-3-27b-it,8192.0,128000,0.00000015,0.0000003,20.3065,1544.0
+NCompass | google/gemma-3-27b-it,32768.0,32768,0.0000003,0.0000003,46.276,894.0

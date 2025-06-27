@@ -1,0 +1,5 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Enfer | mistralai/mistral-7b-instruct,16384.0,32768,0.000000028,0.000000054,95.477,824.0
+DeepInfra | mistralai/mistral-7b-instruct,16384.0,32768,0.000000028,0.000000054,128.54,566.0
+Novita | mistralai/mistral-7b-instruct,,32768,0.000000029,0.000000059,67.628,721.5
+Together | mistralai/mistral-7b-instruct,4096.0,32768,0.0000002,0.0000002,232.334,373.5

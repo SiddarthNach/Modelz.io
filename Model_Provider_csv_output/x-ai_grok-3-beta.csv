@@ -1,0 +1,3 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+xAI | x-ai/grok-3-beta,,131072,0.000003,0.000015,64.7575,651.0
+xAI | x-ai/grok-3-beta,,131072,0.000005,0.000025,65.0835,521.5

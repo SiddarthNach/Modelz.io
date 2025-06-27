@@ -1,0 +1,5 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Anthropic | anthropic/claude-3-5-haiku,8192,200000,0.0000008,0.000004,62.007,1223
+Google | anthropic/claude-3-5-haiku,8192,200000,0.0000008,0.000004,61.1755,1810
+Amazon Bedrock | anthropic/claude-3-5-haiku,8192,200000,0.0000008,0.000004,N/A,N/A
+Amazon Bedrock | anthropic/claude-3-5-haiku,8192,200000,0.0000008,0.000004,N/A,N/A

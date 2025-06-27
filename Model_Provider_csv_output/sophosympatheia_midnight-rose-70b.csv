@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Novita | sophosympatheia/midnight-rose-70b,2048,4096,0.0000008,0.0000008,15.91,1086.5

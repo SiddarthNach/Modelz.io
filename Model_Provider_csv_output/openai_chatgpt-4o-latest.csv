@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+OpenAI | openai/chatgpt-4o-latest,16384,128000,0.000005,0.000015,92.6975,428.5

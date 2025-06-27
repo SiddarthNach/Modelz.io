@@ -1,0 +1,3 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | mistralai/mistral-small-3.2-24b-instruct-2506,,128000,0.00000005,0.0000001,17.402,913
+Mistral | mistralai/mistral-small-3.2-24b-instruct-2506,,131072,0.0000001,0.0000003,161.073,235

@@ -1,0 +1,10 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Kluster | mistralai/mistral-nemo,131072.0,131072,0.00000001,0.000000011,85.732,419.0
+DeepInfra | mistralai/mistral-nemo,16384.0,131072,0.00000001,0.000000011,45.858,208.0
+Enfer | mistralai/mistral-nemo,131072.0,131072,0.00000001,0.00000002,26.375,1216.0
+Parasail | mistralai/mistral-nemo,131072.0,131072,0.00000003,0.00000011,149.7645,381.0
+InferenceNet | mistralai/mistral-nemo,16384.0,16384,0.0000000375,0.0000001,71.1,713.5
+Nebius | mistralai/mistral-nemo,,128000,0.00000004,0.00000012,47.1905,483.5
+Novita | mistralai/mistral-nemo,32000.0,60288,0.00000004,0.00000017,48.46,993.5
+Mistral | mistralai/mistral-nemo,,131072,0.00000015,0.00000015,126.477,219.0
+Azure | mistralai/mistral-nemo,,128000,0.0000003,0.0000003,99.225,1125.0

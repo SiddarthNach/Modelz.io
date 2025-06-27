@@ -1,0 +1,5 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | mistralai/devstral-small-2505,,128000,0.00000006,0.00000012,55.219,587
+Nebius | mistralai/devstral-small-2505,,128000,0.00000008,0.00000024,126.599,358
+Parasail | mistralai/devstral-small-2505,131072.0,131072,0.00000009,0.0000003,56.324,1782
+Mistral | mistralai/devstral-small-2505,,131072,0.0000001,0.0000003,113.407,1163

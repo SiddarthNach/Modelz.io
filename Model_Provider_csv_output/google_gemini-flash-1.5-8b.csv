@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Google AI Studio | google/gemini-flash-1.5-8b,8192,1000000,0.0000000375,0.00000015,155.555,315

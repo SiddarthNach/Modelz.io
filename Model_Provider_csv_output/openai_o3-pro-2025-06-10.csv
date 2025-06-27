@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+OpenAI | openai/o3-pro-2025-06-10,100000,200000,0.00002,0.00008,7.727,65642

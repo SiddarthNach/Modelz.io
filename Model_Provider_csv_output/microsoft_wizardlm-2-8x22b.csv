@@ -1,0 +1,4 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Parasail | microsoft/wizardlm-2-8x22b,65536,65536,0.00000048,0.00000048,52.776,1157
+DeepInfra | microsoft/wizardlm-2-8x22b,16384,65536,0.00000048,0.00000048,29.68,672
+Novita | microsoft/wizardlm-2-8x22b,8000,65535,0.00000062,0.00000062,28.75,843

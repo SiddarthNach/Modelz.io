@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Novita | sao10k/l3-euryale-70b,8192,8192,0.00000148,0.00000148,45.601,874

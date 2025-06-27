@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Together | arcee-ai/virtuoso-large,64000,131072,0.00000075,0.0000012,114.285,165

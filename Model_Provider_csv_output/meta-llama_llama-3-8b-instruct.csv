@@ -1,0 +1,7 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | meta-llama/llama-3-8b-instruct,16384.0,8192,0.00000003,0.00000006,150.354,445.0
+Novita | meta-llama/llama-3-8b-instruct,8192.0,8192,0.00000004,0.00000004,84.0365,828.0
+Groq | meta-llama/llama-3-8b-instruct,8192.0,8192,0.00000005,0.00000008,3125.0,305.0
+Mancer 2 | meta-llama/llama-3-8b-instruct,2048.0,16384,0.00000005,0.00000025,31.2825,818.0
+Together | meta-llama/llama-3-8b-instruct,,8192,0.0000001,0.0000001,149.516,689.5
+Cloudflare | meta-llama/llama-3-8b-instruct,,7968,0.00000028,0.00000083,16.553,584.0

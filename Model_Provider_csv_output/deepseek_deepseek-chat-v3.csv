@@ -1,0 +1,5 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | deepseek/deepseek-chat-v3,163840.0,163840,0.00000038,0.00000089,37.073,510.0
+Novita | deepseek/deepseek-chat-v3,16000.0,64000,0.0000004,0.0000013,30.7585,1094.0
+Nebius | deepseek/deepseek-chat-v3,,163840,0.0000005,0.0000015,28.428,362.0
+Fireworks | deepseek/deepseek-chat-v3,,131072,0.0000009,0.0000009,61.721,1666.5

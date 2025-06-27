@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Novita | cognitivecomputations/dolphin-mixtral-8x22b,8192,16000,0.0000009,0.0000009,14.824,1788.5

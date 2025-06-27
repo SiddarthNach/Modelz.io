@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Azure | microsoft/phi-3-medium-128k-instruct,,128000,0.000001,0.000001,52.347,143

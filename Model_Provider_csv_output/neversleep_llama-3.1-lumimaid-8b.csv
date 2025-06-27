@@ -1,0 +1,3 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Mancer 2 | neversleep/llama-3.1-lumimaid-8b,2048,32768,0.0000002,0.00000125,66.322,752.5
+Featherless | neversleep/llama-3.1-lumimaid-8b,4096,16384,0.0000008,0.0000012,24.328,1264.0

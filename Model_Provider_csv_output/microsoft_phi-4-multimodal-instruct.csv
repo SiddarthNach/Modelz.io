@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | microsoft/phi-4-multimodal-instruct,,131072,0.00000005,0.0000001,157.307,486

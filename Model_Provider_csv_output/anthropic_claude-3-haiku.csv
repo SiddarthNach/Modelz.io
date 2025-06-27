@@ -1,0 +1,3 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Anthropic | anthropic/claude-3-haiku,4096,200000,0.00000025,0.00000125,138.5625,632
+Google | anthropic/claude-3-haiku,4096,200000,0.00000025,0.00000125,180.044,860

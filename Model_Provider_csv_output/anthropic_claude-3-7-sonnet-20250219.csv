@@ -1,0 +1,6 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Google | anthropic/claude-3-7-sonnet-20250219,64000,200000,0.000003,0.000015,50.268,1420
+Google | anthropic/claude-3-7-sonnet-20250219,64000,200000,0.000003,0.000015,54.615,1147
+Google | anthropic/claude-3-7-sonnet-20250219,64000,200000,0.000003,0.000015,N/A,N/A
+Anthropic | anthropic/claude-3-7-sonnet-20250219,128000,200000,0.000003,0.000015,52.282,1824
+Amazon Bedrock | anthropic/claude-3-7-sonnet-20250219,128000,200000,0.000003,0.000015,55.1485,1549

@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+AionLabs | aion-labs/aion-1.0,32768,131072,0.000004,0.000008,36.9495,2155.5

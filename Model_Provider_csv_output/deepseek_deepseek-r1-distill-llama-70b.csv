@@ -1,0 +1,12 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | deepseek/deepseek-r1-distill-llama-70b,16384.0,131072,0.0000001,0.0000004,21.4915,624
+InferenceNet | deepseek/deepseek-r1-distill-llama-70b,16384.0,128000,0.0000001,0.0000004,17.212,925
+Lambda | deepseek/deepseek-r1-distill-llama-70b,131072.0,131072,0.0000002,0.0000006,65.997,407
+Phala | deepseek/deepseek-r1-distill-llama-70b,,131072,0.0000002,0.0000007,37.2015,751
+GMICloud | deepseek/deepseek-r1-distill-llama-70b,,131072,0.00000025,0.00000075,36.169,881
+Nebius | deepseek/deepseek-r1-distill-llama-70b,,131072,0.00000025,0.00000075,60.477,503
+SambaNova | deepseek/deepseek-r1-distill-llama-70b,4096.0,131072,0.0000007,0.0000014,234.045,1596
+Groq | deepseek/deepseek-r1-distill-llama-70b,131072.0,131072,0.00000075,0.00000099,N/A,N/A
+Novita | deepseek/deepseek-r1-distill-llama-70b,32000.0,32000,0.0000008,0.0000008,20.799,741
+Together | deepseek/deepseek-r1-distill-llama-70b,32768.0,131072,0.000002,0.000002,N/A,N/A
+Cerebras | deepseek/deepseek-r1-distill-llama-70b,32000.0,32000,0.0000022,0.0000025,3316.4395,160

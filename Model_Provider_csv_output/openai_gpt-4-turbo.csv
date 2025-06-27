@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+OpenAI | openai/gpt-4-turbo,4096,128000,0.00001,0.00003,58.549,850

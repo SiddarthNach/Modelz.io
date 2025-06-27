@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Cohere | cohere/command-r-plus-08-2024,4000,128000,0.0000025,0.00001,43.2935,264.5

@@ -1,0 +1,4 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | qwen/qwen3-14b-04-28,40960.0,40960,0.00000006,0.00000024,83.402,134.0
+Parasail | qwen/qwen3-14b-04-28,40960.0,40960,0.00000006,0.00000025,17.707,1995.0
+Nebius | qwen/qwen3-14b-04-28,,40960,0.00000008,0.00000024,98.6935,371.5

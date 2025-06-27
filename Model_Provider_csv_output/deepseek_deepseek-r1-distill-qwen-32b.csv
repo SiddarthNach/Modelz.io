@@ -1,0 +1,6 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | deepseek/deepseek-r1-distill-qwen-32b,16384.0,131072,0.000000075,0.00000015,51.677,255.0
+Nineteen | deepseek/deepseek-r1-distill-qwen-32b,16000.0,16000,0.000000075,0.00000015,146.8875,598.0
+Novita | deepseek/deepseek-r1-distill-qwen-32b,32000.0,64000,0.0000003,0.0000003,22.121,1271.0
+GMICloud | deepseek/deepseek-r1-distill-qwen-32b,,131072,0.0000005,0.0000009,41.715,1003.0
+Cloudflare | deepseek/deepseek-r1-distill-qwen-32b,,80000,0.0000005,0.00000488,39.26,619.5

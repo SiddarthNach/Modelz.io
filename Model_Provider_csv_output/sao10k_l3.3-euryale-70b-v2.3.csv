@@ -1,0 +1,4 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+NextBit | sao10k/l3.3-euryale-70b-v2.3,,131072,0.00000065,0.00000075,19.323,2222
+DeepInfra | sao10k/l3.3-euryale-70b-v2.3,16384.0,131072,0.00000065,0.00000075,38.362,295
+Infermatic | sao10k/l3.3-euryale-70b-v2.3,,16384,0.0000015,0.0000015,41.401,561

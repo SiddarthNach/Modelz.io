@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Amazon Bedrock | amazon/nova-lite-v1,5120,300000,0.00000006,0.00000024,143.729,489

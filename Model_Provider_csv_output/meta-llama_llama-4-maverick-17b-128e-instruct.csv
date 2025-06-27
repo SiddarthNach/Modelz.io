@@ -1,0 +1,14 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | meta-llama/llama-4-maverick-17b-128e-instruct,16384.0,1048576,0.00000015,0.0000006,96.524,286
+Kluster | meta-llama/llama-4-maverick-17b-128e-instruct,1048576.0,1048576,0.00000015,0.0000008,108.869,492
+Parasail | meta-llama/llama-4-maverick-17b-128e-instruct,1048576.0,1048576,0.00000015,0.00000085,134.874,283
+Novita | meta-llama/llama-4-maverick-17b-128e-instruct,1048576.0,1048576,0.00000017,0.00000085,107.5525,563
+Lambda | meta-llama/llama-4-maverick-17b-128e-instruct,1048576.0,1048576,0.00000018,0.0000006,128.5495,291
+BaseTen | meta-llama/llama-4-maverick-17b-128e-instruct,131072.0,1000000,0.00000019,0.00000072,197.3055,188
+Groq | meta-llama/llama-4-maverick-17b-128e-instruct,8192.0,131072,0.0000002,0.0000006,882.783,153
+Fireworks | meta-llama/llama-4-maverick-17b-128e-instruct,,1048576,0.00000022,0.00000088,104.329,584
+GMICloud | meta-llama/llama-4-maverick-17b-128e-instruct,,1048576,0.00000025,0.0000008,N/A,N/A
+Together | meta-llama/llama-4-maverick-17b-128e-instruct,,1048576,0.00000027,0.00000085,80.438,428
+Google | meta-llama/llama-4-maverick-17b-128e-instruct,,524288,0.00000035,0.00000115,107.032,1025
+DeepInfra | meta-llama/llama-4-maverick-17b-128e-instruct,,8192,0.0000005,0.0000005,420.6245,173
+SambaNova | meta-llama/llama-4-maverick-17b-128e-instruct,4096.0,131072,0.00000063,0.0000018,578.4345,394

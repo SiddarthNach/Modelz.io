@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Together | google/gemma-2-27b-it,2048,8192,0.0000008,0.0000008,69.0195,257

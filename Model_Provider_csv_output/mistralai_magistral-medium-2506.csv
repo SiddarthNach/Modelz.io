@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Mistral | mistralai/magistral-medium-2506,40000,40960,0.000002,0.000005,77.727,529.5

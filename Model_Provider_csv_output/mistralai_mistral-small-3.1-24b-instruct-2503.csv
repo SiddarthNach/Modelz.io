@@ -1,0 +1,6 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | mistralai/mistral-small-3.1-24b-instruct-2503,,128000,0.00000005,0.0000001,40.446,556
+Nebius | mistralai/mistral-small-3.1-24b-instruct-2503,,131072,0.00000005,0.00000015,112.966,435
+Parasail | mistralai/mistral-small-3.1-24b-instruct-2503,128000.0,128000,0.0000001,0.0000003,54.501,1078
+Mistral | mistralai/mistral-small-3.1-24b-instruct-2503,,32768,0.0000001,0.0000003,175.367,166
+Cloudflare | mistralai/mistral-small-3.1-24b-instruct-2503,,128000,0.00000035,0.00000056,57.636,517

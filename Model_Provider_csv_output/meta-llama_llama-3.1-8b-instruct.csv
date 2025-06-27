@@ -1,0 +1,17 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Kluster | meta-llama/llama-3.1-8b-instruct,131000.0,131000,0.000000016,0.000000021,160.318,321
+DeepInfra | meta-llama/llama-3.1-8b-instruct,16384.0,131072,0.000000016,0.000000021,121.013,161
+InferenceNet | meta-llama/llama-3.1-8b-instruct,16384.0,16384,0.00000002,0.00000003,86.956,827
+Novita | meta-llama/llama-3.1-8b-instruct,131072.0,16384,0.00000002,0.00000005,85.31,771.5
+Nebius | meta-llama/llama-3.1-8b-instruct,,131072,0.00000002,0.00000006,77.306,492
+Lambda | meta-llama/llama-3.1-8b-instruct,131072.0,131072,0.000000025,0.00000004,183.014,244
+DeepInfra | meta-llama/llama-3.1-8b-instruct,16384.0,131072,0.00000003,0.00000005,41.087,280
+Cloudflare | meta-llama/llama-3.1-8b-instruct,,32000,0.000000045,0.000000384,25.896,636
+Groq | meta-llama/llama-3.1-8b-instruct,131072.0,131072,0.00000005,0.00000008,1000,172
+Hyperbolic | meta-llama/llama-3.1-8b-instruct,,131072,0.0000001,0.0000001,261.098,963
+Cerebras | meta-llama/llama-3.1-8b-instruct,32000.0,32000,0.0000001,0.0000001,10191.7415,91
+Friendli | meta-llama/llama-3.1-8b-instruct,8000.0,131072,0.0000001,0.0000001,278.626,140
+SambaNova | meta-llama/llama-3.1-8b-instruct,4096.0,16384,0.0000001,0.0000002,1331.474,639
+Together | meta-llama/llama-3.1-8b-instruct,,131072,0.00000018,0.00000018,173.177,275
+Fireworks | meta-llama/llama-3.1-8b-instruct,,131072,0.0000002,0.0000002,399.7815,440
+Avian | meta-llama/llama-3.1-8b-instruct,,131072,0.0000002,0.0000002,N/A,N/A

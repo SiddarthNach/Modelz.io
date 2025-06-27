@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Mistral | mistralai/ministral-3b,,131072,0.00000004,0.00000004,256.41,164

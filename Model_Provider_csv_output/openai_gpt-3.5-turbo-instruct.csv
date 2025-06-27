@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+OpenAI | openai/gpt-3.5-turbo-instruct,4096,4095,0.0000015,0.000002,144.011,645

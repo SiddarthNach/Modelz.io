@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Mistral | mistralai/codestral-2501,,262144,0.0000003,0.0000009,245.762,236

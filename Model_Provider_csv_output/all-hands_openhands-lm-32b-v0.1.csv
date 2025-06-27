@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Featherless | all-hands/openhands-lm-32b-v0.1,4096,16384,0.0000026,0.0000034,13.838,1047

@@ -1,0 +1,3 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Liquid | liquid/lfm-40b,,32768,0.00000015,0.00000015,238.095,386
+Lambda | liquid/lfm-40b,65536.0,65536,0.00000015,0.00000015,19.643,5989

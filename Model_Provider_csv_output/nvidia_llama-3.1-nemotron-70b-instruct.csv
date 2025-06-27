@@ -1,0 +1,5 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Lambda | nvidia/llama-3.1-nemotron-70b-instruct,131072.0,131072,0.00000012,0.0000003,50.021,846
+DeepInfra | nvidia/llama-3.1-nemotron-70b-instruct,16384.0,131072,0.00000012,0.0000003,31.763,357
+Together | nvidia/llama-3.1-nemotron-70b-instruct,,32768,0.00000088,0.00000088,70.862,560
+Infermatic | nvidia/llama-3.1-nemotron-70b-instruct,,32000,0.000001,0.000001,N/A,N/A

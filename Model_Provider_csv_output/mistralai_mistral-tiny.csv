@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Mistral | mistralai/mistral-tiny,,32768,0.00000025,0.00000025,187.6685,249

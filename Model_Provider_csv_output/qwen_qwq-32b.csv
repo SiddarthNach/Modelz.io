@@ -1,0 +1,10 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | qwen/qwq-32b,,131072,0.000000075,0.00000015,42.557,652
+Nineteen | qwen/qwq-32b,40000.0,40000,0.000000075,0.00000015,144.4665,705
+Nebius | qwen/qwq-32b,,131072,0.00000015,0.00000045,54.5465,762
+InferenceNet | qwen/qwq-32b,16384.0,16384,0.0000002,0.0000002,N/A,N/A
+Groq | qwen/qwq-32b,131072.0,131072,0.00000029,0.00000039,484.959,463
+Hyperbolic | qwen/qwq-32b,,131072,0.0000004,0.0000004,140.026,1740
+Nebius | qwen/qwq-32b,,131072,0.0000005,0.0000015,77.242,925
+Fireworks | qwen/qwq-32b,,131072,0.0000009,0.0000009,N/A,N/A
+Together | qwen/qwq-32b,32768.0,131072,0.0000012,0.0000012,N/A,N/A

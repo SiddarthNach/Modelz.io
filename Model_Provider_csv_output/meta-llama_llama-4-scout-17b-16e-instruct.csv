@@ -1,0 +1,13 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Lambda | meta-llama/llama-4-scout-17b-16e-instruct,1048576.0,1048576,0.00000008,0.0000003,106.3445,244.0
+DeepInfra | meta-llama/llama-4-scout-17b-16e-instruct,16384.0,327680,0.00000008,0.0000003,33.4555,570.0
+Kluster | meta-llama/llama-4-scout-17b-16e-instruct,131072.0,131072,0.00000008,0.00000045,64.2335,439.0
+GMICloud | meta-llama/llama-4-scout-17b-16e-instruct,,1048576,0.00000008,0.0000005,131.2385,550.0
+Parasail | meta-llama/llama-4-scout-17b-16e-instruct,158000.0,158000,0.00000009,0.00000048,113.138,394.0
+Novita | meta-llama/llama-4-scout-17b-16e-instruct,131072.0,131072,0.0000001,0.0000005,64.0275,641.5
+Groq | meta-llama/llama-4-scout-17b-16e-instruct,8192.0,131072,0.00000011,0.00000034,783.7745,268.5
+BaseTen | meta-llama/llama-4-scout-17b-16e-instruct,131072.0,1000000,0.00000013,0.0000005,124.9425,258.0
+Fireworks | meta-llama/llama-4-scout-17b-16e-instruct,,1048576,0.00000015,0.0000006,85.137,507.5
+Together | meta-llama/llama-4-scout-17b-16e-instruct,,1048576,0.00000018,0.00000059,102.968,283.0
+Google | meta-llama/llama-4-scout-17b-16e-instruct,,1310720,0.00000025,0.0000007,104.265,489.0
+Cerebras | meta-llama/llama-4-scout-17b-16e-instruct,32000.0,32000,0.00000065,0.00000085,2185.185,376.0

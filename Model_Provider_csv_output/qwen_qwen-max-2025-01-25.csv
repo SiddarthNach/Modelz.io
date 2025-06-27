@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Alibaba | qwen/qwen-max-2025-01-25,8192,32768,0.0000016,0.0000064,34.911,1156

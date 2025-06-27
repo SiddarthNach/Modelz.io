@@ -1,0 +1,4 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | meta-llama/llama-3.2-1b-instruct,16384.0,131072,0.000000005,0.00000001,181.818,327.0
+InferenceNet | meta-llama/llama-3.2-1b-instruct,16384.0,16384,0.00000001,0.00000001,416.666,636.5
+Cloudflare | meta-llama/llama-3.2-1b-instruct,,60000,0.000000027,0.0000002,454.545,168.0

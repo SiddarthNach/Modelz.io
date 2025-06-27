@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Together | arcee-ai/arcee-blitz,,32768,0.00000045,0.00000075,97.744,73

@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Amazon Bedrock | amazon/nova-micro-v1,5120,128000,0.000000035,0.00000014,273.8895,286

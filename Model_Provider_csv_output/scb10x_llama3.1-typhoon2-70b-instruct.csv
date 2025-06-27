@@ -1,0 +1,2 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+Together | scb10x/llama3.1-typhoon2-70b-instruct,,8192,0.00000088,0.00000088,N/A,N/A
