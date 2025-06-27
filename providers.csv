@@ -1,0 +1,18 @@
+name,max_completion_tokens,context_length,pricing_prompt,pricing_completion,p50_throughput,p50_latency
+DeepInfra | deepseek/deepseek-chat-v3-0324,,163840,0.00000028,0.00000088,17.647,385.0
+Crusoe | deepseek/deepseek-chat-v3-0324,131072.0,131072,0.00000028,0.00000115,26.67,1120.0
+Kluster | deepseek/deepseek-chat-v3-0324,163840.0,163840,0.00000028,0.00000115,38.538,957.0
+Atoma | deepseek/deepseek-chat-v3-0324,90000.0,100000,0.00000033,0.00000125,18.6425,2387.0
+Novita | deepseek/deepseek-chat-v3-0324,131072.0,131072,0.00000033,0.0000013,29.7315,1385.0
+Lambda | deepseek/deepseek-chat-v3-0324,163840.0,163840,0.00000034,0.00000088,29.133,693.0
+InferenceNet | deepseek/deepseek-chat-v3-0324,32768.0,128000,0.00000045,0.00000145,34.277,1038.0
+Nebius | deepseek/deepseek-chat-v3-0324,,163840,0.0000005,0.0000015,29.409,870.0
+GMICloud | deepseek/deepseek-chat-v3-0324,,131072,0.00000074,0.0000009,102.551,510.5
+BaseTen | deepseek/deepseek-chat-v3-0324,131072.0,163840,0.00000077,0.00000077,132.318,330.0
+Phala | deepseek/deepseek-chat-v3-0324,,131072,0.00000078,0.00000114,33.173,1016.0
+Parasail | deepseek/deepseek-chat-v3-0324,163840.0,163840,0.00000079,0.00000115,94.317,661.0
+Fireworks | deepseek/deepseek-chat-v3-0324,,163840,0.0000009,0.0000009,89.855,688.5
+Hyperbolic | deepseek/deepseek-chat-v3-0324,,163840,0.00000125,0.00000125,34.686,1671.0
+Together | deepseek/deepseek-chat-v3-0324,12288.0,131072,0.00000125,0.00000125,28.122,1035.5
+SambaNova | deepseek/deepseek-chat-v3-0324,7168.0,32768,0.000003,0.0000045,153.009,1896.0
+DeepSeek | deepseek/deepseek-chat-v3-0324,8000.0,64000,0.00000027,0.0000011,23.087,3087.0
