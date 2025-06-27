@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-def json_to_csv(json_file='output.json', csv_file='providers.csv'):
+def json_to_csv(json_file='output.json', csv_file='DeepSeek_Model_Providers.csv'):
     with open(json_file, 'r') as f:
         data = json.load(f)
 
