@@ -1,0 +1,23 @@
+## 📅 Day 2 — July 1, 2025
+
+**Focus:** Supabase DB + Metadata Ingestion Pipeline
+
+### ✅ Tasks Completed
+- Consulted with Vaughn about using **Supabase** for cloud PostgreSQL
+- Created the `model_metadata` table in Supabase via SQL editor
+- Built a Python-based **ETL pipeline** that:
+  - Calls OpenRouter’s frontend APIs for each model
+  - Extracts metadata (latency, pricing, tokens, etc.)
+  - Inserts the data into Supabase using `supabase-py`
+- Verified data inserts in Supabase Table Editor
+- Handled nulls safely for missing JSON fields
+
+### 💡 Key Learnings
+- Supabase doesn’t run Python — you schedule ETL externally (e.g. `cron`, GitHub Actions)
+- `response.data` is used to confirm successful Supabase inserts
+- `NULL` values in DB = missing data from OpenRouter, not pipeline bugs
+
+### ❓ Open Questions
+- How would **AWS** replace or supplement Supabase at scale?
+  - Would AWS Lambda, RDS, or Step Functions be better suited in prod?
+  - Can we use AWS to schedule and monitor the pipeline?
