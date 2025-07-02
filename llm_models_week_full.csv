@@ -1,0 +1,22 @@
+# Top models over week June 25th to July 1st
+model_name,tokens,input_tokens_cost,output_tokens_cost,total_tokens_used,usd_per_million_tokens,usd_spent
+Anthropic: Claude Sonnet 4,200000,$3,$15,286B,$18.0000,"$5,148,000.00"
+Google: Gemini 2.0 Flash,1048576,$0.10,$0.40,286B,$0.5000,"$143,000.00"
+Google: Gemini 2.5 Flash Preview 05-20,1048576,$0.15,$0.60,198B,$0.7500,"$148,500.00"
+DeepSeek: DeepSeek V3 0324 (free),163840,$0.0,$0.0,139B,$0.0000,$0.00
+DeepSeek: DeepSeek V3 0324,163840,$0.28,$0.88,132B,$1.1600,"$153,120.00"
+Google: Gemini 2.5 Flash,1048576,$0.30,$2.50,119B,$2.8000,"$333,200.00"
+Google: Gemini 2.5 Pro,1048576,$1.25,$10.0,112B,$11.2500,"$1,260,000.00"
+Anthropic: Claude 3.7 Sonnet,200000,$3,$15,78B,$18.0000,"$1,404,000.00"
+Google: Gemini 2.5 Flash Lite Preview 06-17,1048576,$0.10,$0.40,62.1B,$0.5000,"$31,050.00"
+OpenAI: GPT-4o-mini,128000,$0.15,$0.60,61.4B,$0.7500,"$46,050.00"
+Google: Gemini 2.5 Flash Preview 04-17,1048576,$0.15,$0.60,57.5B,$0.7500,"$43,125.00"
+DeepSeek: R1 0528 (free),163840,$0.0,$0.0,49.8B,$0.0000,$0.00
+Mistral: Mistral Nemo,131072,$0.01,$0.011,40.6B,$0.0210,$852.60
+DeepSeek: R1 (free),163840,$0.0,$0.0,33.2B,$0.0000,$0.00
+OpenAI: GPT-4.1,1047576,$2,$8,32.2B,$10.0000,"$322,000.00"
+Meta: Llama 3.3 70B Instruct,131072,$0.039,$0.12,30.7B,$0.1590,"$4,881.30"
+Google: Gemini 2.0 Flash Lite,1048576,$0.075,$0.30,29.4B,$0.3750,"$11,025.00"
+OpenAI: GPT-4.1 Mini,1047576,$0.40,$1.60,28.2B,$2.0000,"$56,400.00"
+xAI: Grok 3 Beta,131072,$3,$15,27.1B,$18.0000,"$487,800.00"
+Meta: Llama 4 Maverick,1048576,$0.15,$0.60,22.7B,$0.7500,"$17,025.00"
